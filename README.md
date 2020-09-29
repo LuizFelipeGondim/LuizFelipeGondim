@@ -1,4 +1,4 @@
-### Hi, i'm Luiz 👋 ¯\_(ツ)_/¯ 
+### Hi, i'm Luiz 👋 ¯\\_(ツ)_/¯ 
 
 <a href="https://github.com/LuizFelipeGondim">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LuizFelipeGondim&show_icons=true&theme=dark&line_height=27" alt="Luiz Felipe Gondim Github Stats"/>
