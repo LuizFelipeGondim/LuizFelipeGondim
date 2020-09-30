@@ -15,7 +15,7 @@ I'm a jr developer from Brazil and a student very interested in technology. I ha
 
 ### :earth_americas: Contact:
 
-<a href="https://api.whatsapp.com/send?phone=5577999797081&text=Oi, tudo bem?!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565981178109&text=Github!)</a>
+<a href="https://api.whatsapp.com/send?phone=5577999797081&text=Oi, tudo bem?" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565981178109&text=Github!)</a>
 <a href="https://www.linkedin.com/in/luiz-felipe-gondim-360941196/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-gondim-360941196/)</a>
 <a href="https://twitter.com/luizf_ga" target="_blank">![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luizf_ga)</a>
 <a href="https://www.instagram.com/luiz_felipe_ga/" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/luiz_felipe_ga/)</a>
