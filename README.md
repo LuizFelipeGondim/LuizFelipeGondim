@@ -1,4 +1,4 @@
-## Hi, i'm Luiz (ツ)
+## Hi, i'm Luiz (ツ) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/LuizFelipeGondim)](https://luiz-felipe-gondim.netlify.app)
 
 I'm a jr developer from Brazil and a student very interested in technology. I have 18 years old with 2 years programming.
 
@@ -25,7 +25,6 @@ I'm a jr developer from Brazil and a student very interested in technology. I ha
 
 ### :alien: My Github skills:
 
-<a href="https://github.com/LuizFelipeGondim">
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LuizFelipeGondim&show_icons=true&theme=dark&line_height=27" alt="Luiz Felipe Gondim Github Stats"/>
-</a>
+<a href="https://github.com/LuizFelipeGondim"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LuizFelipeGondim&show_icons=true&theme=dark&line_height=27" alt="Luiz Felipe Gondim Github Stats"/></a>
+
 
