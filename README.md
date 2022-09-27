@@ -27,4 +27,5 @@ I'm a jr developer from Brazil and a student very interested in technology. I ha
 
 <a href="https://github.com/LuizFelipeGondim"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LuizFelipeGondim&show_icons=true&theme=dark&line_height=27" alt="Luiz Felipe Gondim Github Stats"/></a>
 
+![](./profile-3d-contrib/profile-night-green.svg)
 
