@@ -1,4 +1,4 @@
-## Hi, i'm Luiz (ツ) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/LuizFelipeGondim)](https://luiz-felipe-gondim.netlify.app)
+## Hi, i'm Luiz (ツ) 
 
 I'm a jr developer from Brazil and a student very interested in technology. I have 19 years old with 2 years programming.
 
